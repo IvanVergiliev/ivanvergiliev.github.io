@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Ivan Vergiliev
-  avatar: bio-photo.png
+  avatar: avatar.png
   bio: "Machine Learning and Algorithms enthusiast. Ex-Facebook and Google (x2) intern."
   email: 
   disqus-shortname: 
