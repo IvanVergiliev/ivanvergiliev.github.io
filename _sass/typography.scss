@@ -1,4 +1,5 @@
 // Headings
+
 // --------------------------------------------------
 h1, h2, h3, h4, h5, h6 {
 	font-family: $heading-font;
@@ -111,10 +112,13 @@ blockquote {
 // Paragraphs
 // --------------------------------------------------
 p {
+  @include font-size(18);
 	margin: 0 0 $indent-var;
+  text-align: justify;
 	// sibling indentation
   @if $paragraph-indent == true {
     & + p {
+      @include font-size(18);
 			text-indent: $indent-var;
 			margin-top: -($indent-var);
 		}
@@ -128,8 +132,10 @@ tt, code, kbd, samp, pre {
 }
 p,
 li { 
+  @include font-rem(18);
+  text-align: justify;
 	code {
-		@include font-rem(12);
+		@include font-rem(14);
 		line-height: 1.5;
 		white-space: nowrap;
 		margin: 0 2px;

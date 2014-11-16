@@ -257,9 +257,11 @@ $button-size: 1.5rem;
 			}
 		}
 		p {
+      text-align: justify;
 			@include font-rem(14);
 		}
 		p+p {
+      text-align: justify;
 			text-indent: 0;
 		}
 	}
