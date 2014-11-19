@@ -8,6 +8,7 @@ tags: []
 image:
   feature:
 date: 2014-11-16T18:36:32+02:00
+comments: true
 ---
 
 Suppose you've just released your shiny new mobile web app - let's say it's a photo album. Now you've decided to add multi-touch support to the picture details page - pinch-to-zoom, two-finger pan, etc. There is a somewhat standardised API for working with touch events [^1] [^2] and enough written about them [^3]  so the technical details won't be discussed here. The more interesting part is recognising the gesture each of these events represent. At first, it seems like a classification problem [^4], and, indeed, most of the Google results for “multi-touch gesture recognition” are Machine Learning papers.
