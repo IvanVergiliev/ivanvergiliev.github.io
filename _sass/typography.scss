@@ -115,11 +115,11 @@ p {
   @include font-size(18);
 	margin: 0 0 $indent-var;
   text-align: justify;
+  text-indent: $indent-var;
 	// sibling indentation
   @if $paragraph-indent == true {
     & + p {
       @include font-size(18);
-			text-indent: $indent-var;
 			margin-top: -($indent-var);
 		}
 	}
