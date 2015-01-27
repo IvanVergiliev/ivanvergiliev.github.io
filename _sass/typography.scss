@@ -121,6 +121,7 @@ p {
     & + p {
       @include font-size(18);
 			margin-top: -($indent-var);
+      padding-top: 10px;
 		}
 	}
 }
