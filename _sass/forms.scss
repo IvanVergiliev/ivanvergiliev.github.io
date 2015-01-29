@@ -62,12 +62,7 @@ select {
 	width: 100%;
 	padding: 4px;
 	margin-bottom: 5px / 4;
-	background-color: $white;
-	border: 1px solid lighten($black, 80);
 	color: $textcolor; 
-	&:hover {
-		border-color: lighten($accentcolor, 50); 
-	}
 }
 .input-mini { 
 	width: 60px; 
