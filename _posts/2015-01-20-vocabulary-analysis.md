@@ -11,6 +11,8 @@ date: 2015-01-20T23:10:56+02:00
 comments: true
 ---
 
+<img src="/images/vocab_graph.png" style="display: none;" />
+
 <script type="text/javascript" src="/assets/js/vendor/Chart.min.js"></script>
 {% include vocab_unique.json %}
 
