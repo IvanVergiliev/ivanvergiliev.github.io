@@ -166,7 +166,6 @@ textarea[readonly] {
 /* focus and active ============================ */
 input:focus,
 textarea:focus {
-	border-color : $accentcolor;
 	outline : 0;
 	outline : thin dotted \9; 
 }
