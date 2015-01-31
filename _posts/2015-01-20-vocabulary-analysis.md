@@ -176,8 +176,10 @@ comments: true
 творили на различни езици, не са обективни. Затова и не е коректно да твърдим, че Вазов е използвал повече уникални
 думи от Шекспир, дори и да ни се иска. :)
 
-- [Shakespeare’s Vocabulary Considered Unexceptional](https://zwischenzugs.wordpress.com/2011/03/06/shakespeare_unexceptional_vocabulary/) - цитираното сравнение на английски автори.
+- <a href="https://zwischenzugs.wordpress.com/2011/03/06/shakespeare_unexceptional_vocabulary/" target="_blank">
+Shakespeare’s Vocabulary Considered Unexceptional</a> - цитираното сравнение на английски автори.
 
-- [The Largest Vocabulary in Hip Hop](http://rappers.mdaniels.com.s3-website-us-east-1.amazonaws.com) - подобна статия, сравняваща рапъри вместо писатели. Шекспир отново не е на върха.
+- <a href="http://rappers.mdaniels.com.s3-website-us-east-1.amazonaws.com" target="_blank">
+The Largest Vocabulary in Hip Hop</a> - подобна статия, сравняваща рапъри вместо писатели. Шекспир отново не е на върха.
 
 - <a href="https://docs.google.com/spreadsheets/d/1DyULjnbYfDhPlsiHPIvaSvKlFG04DJ4eXxYQCRx75Ec/edit?usp=sharing" target="_blank">Списък с анализирани произведения</a> - тук може да видите кои са разгледаните произведения на всеки автор.
