@@ -1,3 +1,7 @@
+/* ==========================================================================
+   Forms
+   ========================================================================== */
+
 btnform { 
 	margin: 0 0 5px 0;
 	fieldset { 
@@ -153,7 +157,11 @@ input[type="hidden"] {
 .checkbox.inline + .checkbox.inline {
 	margin-left : 10px; 
 }
-/* disabled ==================================== */
+
+/* 
+   Disabled state
+   ========================================================================== */
+
 input[disabled],
 select[disabled],
 textarea[disabled],
@@ -163,7 +171,11 @@ textarea[readonly] {
 	@include opacity(.5);
 	cursor : not-allowed; 
 }
-/* focus and active ============================ */
+
+/* 
+   Focus & active state
+   ========================================================================== */
+
 input:focus,
 textarea:focus {
 	outline : 0;
@@ -175,7 +187,11 @@ input[type="checkbox"]:focus,
 select:focus {
 	@include box-shadow(none); 
 }
-/* help text ==================================== */
+
+/* 
+   Help text
+   ========================================================================== */
+
 .help-block,
 .help-inline {
 	color : lighten($black, 50); 
@@ -190,7 +206,11 @@ select:focus {
 	vertical-align : middle;
 	padding-left : 5px; 
 }
-/* .form-inline ================================= */
+
+/* 
+   .form-inline
+   ========================================================================== */
+
 .form-inline input,
 .form-inline textarea,
 .form-inline select {
@@ -212,7 +232,11 @@ select:focus {
 	float : left;
 	margin-left : 0;
 	margin-right : 3px; }
-/* .form-search ================================= */
+
+/* 
+   .form-search
+   ========================================================================== */
+
 .form-search input,
 .form-search textarea,
 .form-search select {
