@@ -13,6 +13,8 @@ comments: true
 
 <img src="/images/vocab_graph.png" style="display: none;" />
 
+<div class="fb-like" data-href="http://ivanvergiliev.github.io/vocabulary-analysis/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
 <script type="text/javascript" src="/assets/js/vendor/Chart.min.js"></script>
 {% include vocab_unique.json %}
 
