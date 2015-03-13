@@ -10,6 +10,7 @@ image:
 date: 2015-03-12T02:38:28+02:00
 ---
 
+<meta property="og:image" content="/images/methodology_graph.png">
 <img src="/images/methodology_graph.png" style="display: none;" />
 
 <script type="text/javascript" src="/assets/js/vendor/Chart.min.js"></script>
