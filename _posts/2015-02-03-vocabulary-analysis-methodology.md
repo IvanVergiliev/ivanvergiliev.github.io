@@ -10,6 +10,8 @@ image:
 date: 2015-03-12T02:38:28+02:00
 ---
 
+<img src="/images/methodology_graph.png" style="display: none;" />
+
 <script type="text/javascript" src="/assets/js/vendor/Chart.min.js"></script>
 
 <div class="fb-like" data-href="http://ivanvergiliev.github.io/vocabulary-analysis-methodology/"
