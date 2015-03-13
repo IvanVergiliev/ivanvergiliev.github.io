@@ -18,3 +18,5 @@
 <meta property="og:url" content="http:{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="fb:admins" content="1423133229" />
+
+{% if page.facebookImage %}<meta property="og:image" content="http:{{site.url}}/images/{{page.facebookImage}}">{% endif %}
