@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Word Embedding Demo"
+title: "Думи в пространството - демо"
 modified:
 categories: 
 excerpt:
